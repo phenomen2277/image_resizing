@@ -4,7 +4,6 @@ require "RMagick"
 module ImageResizing
 
   class ImageResizer
-    attr_accessor :input_file, :output_file
 
     def initialize
     end
