@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["jonemob@gmail.com"]
   spec.summary       = %q{An easy way to resize images using ImageMagick with Ruby.}
   spec.description   = %q{An easy way to resize images using ImageMagick with Ruby.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/phenomen2277/image_resizing"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
